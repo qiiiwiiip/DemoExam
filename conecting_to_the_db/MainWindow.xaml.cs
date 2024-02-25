@@ -22,7 +22,7 @@ namespace conecting_to_the_db
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();//жева
         }
     }
 }
